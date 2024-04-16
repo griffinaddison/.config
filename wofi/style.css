@@ -1,0 +1,58 @@
+#entry {
+  font-size: 20px;
+  border-radius: 5px;
+  padding: 1px 3px 1px 3px;
+}
+
+
+#entry:selected {
+  font-size: 30px;
+}
+
+#text:selected {
+  color: #d8dee9;
+}
+
+#window {
+  padding: 2px;
+  background-color: rgba(0, 0, 0, 0.7);
+  border: 1px solid #BBBBBB;
+  border-radius: 10px;
+  font-family: 'Inter Nerd Font','FuraCode Nerd Font Mono';
+  font-size: 25px;
+}
+
+#input {
+  border: 0px solid #5e81ac;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #BBBBBB;
+  padding: 3px 5px 3px 5px;
+  border-radius: 5px;
+}
+
+#inner-box {
+  color: #d8dee9;
+  padding: 2px;
+  background-color: transparent;
+}
+
+#outer-box {
+  margin: 15px;
+  background-color: transparent;
+}
+
+#scroll {
+  margin-top: 10px;
+  background-color: transparent;
+  border: none;
+}
+
+#text {
+  padding: 3px;
+  background-color: transparent;
+}
+
+#img {
+  background-color: transparent;
+  padding: 5px;
+}
